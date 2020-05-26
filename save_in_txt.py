@@ -8,6 +8,7 @@ def writeFile():
     file.close()
     metinF.delete(0, END)
 
+
 gui = Tk()
 gui.title('FM Story Teller')
 gui.iconbitmap('C:/Users/Sergo/PycharmProjects/FMStoryTeller/img/Icon_Books.ico')
